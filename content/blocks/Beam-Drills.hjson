@@ -4,10 +4,8 @@ size: 2
 health: 150
 tier: 3
 drillTime: 60
-consumesPower: {
+consumes: {
     power: 0.7
-}
-consumeLiquid: {
     Liquid: water
     amount: 0.05
     boost: true
