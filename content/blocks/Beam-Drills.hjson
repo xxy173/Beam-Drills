@@ -6,6 +6,8 @@ tier: 3
 drillTime: 60
 consumes: {
     power: 0.7
+}
+consumesLiquid: {
     liquid: water
     amount: 0.05
     boost: true
