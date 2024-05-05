@@ -1,0 +1,29 @@
+name: "Beam-Drill"
+type: beamDrill
+size: 2
+health: 150
+tier: 3
+drillTime: 60
+consumesPower: {
+    power: 0.7
+}
+consumeLiquid: {
+    Liquid: water
+    amount: 0.05
+    boost: true
+}
+research: {
+  parent: "Laser-drill"
+  requirements: [
+    copper/2000
+    graphite/1500
+    titanium/1300
+    silicon/1500
+  ]
+}
+requirements: [
+  copper/30
+  graphite/25
+  titanium/20
+  silicon/25
+]
