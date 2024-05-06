@@ -3,10 +3,9 @@ type: beamDrill
 size: 2
 health: 150
 tier: 3
-drillTime: 60
+drillTime: 30
 consumes: {
     power: 0.7
-    boost: false
 }
 consumesLiquid: {
     liquid: water
@@ -14,7 +13,7 @@ consumesLiquid: {
     boost: true
 }
 research: {
-  parent: "Laser-drill"
+  parent: "laser-drill"
   requirements: [
     copper/2000
     graphite/1500
