@@ -10,11 +10,11 @@ liquidBoostIntensity: 1.5
 liquidCapacity: 5
 consumes: {
     power: 0.7
-}
-consumesLiquid: {
-    liquid: water
-    amount: 0.05
-    boost: true
+    liquid: {
+        liquid: water
+        amount: 0.05
+        boost: true
+    }
 }
 research: {
   parent: "laser-drill"
