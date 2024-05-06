@@ -6,6 +6,7 @@ Category: production
 tier: 3
 drillTime: 120
 hasLiquids: true
+liquidBoostIntensity: 1.5
 consumes: {
     power: 0.7
 }
