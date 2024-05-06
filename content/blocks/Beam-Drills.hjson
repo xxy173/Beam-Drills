@@ -14,7 +14,7 @@ consumes: {
     liquid: {
         liquid: water
         amount: 0.05
-        boost: true
+        booster: true
         optional: true
     }
 }
