@@ -3,7 +3,7 @@ type: beamDrill
 size: 2
 health: 150
 tier: 3
-drillTime: 30
+drillTime: 120
 consumes: {
     power: 0.7
 }
