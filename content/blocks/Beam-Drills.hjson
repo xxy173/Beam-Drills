@@ -5,6 +5,7 @@ health: 150
 Category: production
 tier: 3
 drillTime: 120
+hasLiquids: true
 consumes: {
     power: 0.7
 }
