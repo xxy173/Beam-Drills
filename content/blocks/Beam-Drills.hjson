@@ -2,7 +2,7 @@ name: "Beam-Drill"
 type: beamDrill
 size: 2
 health: 150
-Category: drill
+Category: production
 tier: 3
 drillTime: 120
 consumes: {
