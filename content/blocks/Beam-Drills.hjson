@@ -5,6 +5,7 @@ health: 150
 Category: production
 tier: 3
 drillTime: 120
+itemCapacity: 15
 hasLiquids: true
 liquidBoostIntensity: 1.5
 liquidCapacity: 5
