@@ -14,6 +14,7 @@ consumes: {
         liquid: water
         amount: 0.05
         boost: true
+        optional: false
     }
 }
 research: {
