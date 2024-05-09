@@ -7,7 +7,7 @@ tier: 5
 drillTime: 60
 itemCapacity: 30
 hasLiquids: true
-liquidBoostIntensity: 1.5
+liquidBoostIntensity: 2
 liquidCapacity: 15
 consumes: {
     power: 2
