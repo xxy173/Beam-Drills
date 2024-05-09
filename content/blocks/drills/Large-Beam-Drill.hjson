@@ -1,0 +1,35 @@
+name: "Large-Beam-Drill"
+type: beamDrill
+size: 3
+health: 400
+category: production
+tier: 5
+drillTime: 60
+itemCapacity: 30
+hasLiquids: true
+liquidBoostIntensity: 1.5
+liquidCapacity: 15
+consumes: {
+    power: 2
+    liquid: {
+        liquid: water
+        amount: 0.1
+        booster: true
+        optional: true
+    }
+}
+research: {
+  parent: "laser-drill"
+  requirements: [
+    copper/4000
+    titanium/2500
+    thorium/3500
+    silicon/4000
+  ]
+}
+requirements: [
+  copper/50
+  titanium/50
+  thorium/60
+  silicon/75
+]
