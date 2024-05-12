@@ -4,7 +4,7 @@ size: 3
 health: 400
 category: production
 tier: 5
-drillTime: 60
+drillTime: 80
 itemCapacity: 30
 hasLiquids: true
 liquidBoostIntensity: 2
