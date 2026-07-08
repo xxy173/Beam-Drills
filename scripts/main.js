@@ -1,5 +1,8 @@
 function speed(cool){
  return 5 + cool;
 }
-require("blocks")
+module.exports = {
+  s: speed
+}
+require("blocks");
 
