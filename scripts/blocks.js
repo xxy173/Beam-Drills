@@ -1,1 +1,2 @@
-print(speed(15))
+const a = require("blocks")
+print a.s(10)
