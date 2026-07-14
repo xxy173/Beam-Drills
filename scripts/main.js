@@ -1,5 +1,1 @@
-const dialog = new BaseDialog("Dialog Title");
-
-dialog.addCloseButton();
-dialog.cont.add("Goodbye.");
-dialog.show();
+Vars.ui.showInfo("冷却システムを起動しました");
