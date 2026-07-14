@@ -1,8 +1,5 @@
-function speed(cool){
- return 5 + cool;
-}
-module.exports = {
-  s: speed
-}
-require("blocks");
+const dialog = new BaseDialog("Dialog Title");
 
+dialog.addCloseButton();
+dialog.cont.add("Goodbye.");
+dialog.show();
