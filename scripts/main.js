@@ -1,1 +1,4 @@
-Vars.ui.showInfo("冷却システムを起動しました");
+Events.on(ClientLoadEvent, event => {
+    Vars.ui.showInfo("Modを読み込みました");
+
+});
